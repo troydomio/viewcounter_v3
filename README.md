@@ -17,4 +17,4 @@
 # Contact
 Troy Domio - <a href="https://www.linkedin.com/in/troydomio/" target="_blank">Connect with me on Linkedin :D </a>
 
-<a href="https://troydomio.github.io/birthdaycountdowntimer/" target="_blank">View Demo</a>
+<a href="https://glacial-plains-09503.herokuapp.com/" target="_blank">View Demo</a>
