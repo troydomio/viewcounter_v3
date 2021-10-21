@@ -1,24 +1,20 @@
-# README
+# About The Project
+![alt text](https://live.staticflickr.com/65535/51613566875_d9d9b5d213_b.jpg)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
 
-* Ruby version
+### Usage
 
-* System dependencies
+* Displays total page views.
 
-* Configuration
 
-* Database creation
+### Built With
+* Ruby on Rails
+* React
+* CSS
 
-* Database initialization
 
-* How to run the test suite
+# Contact
+Troy Domio - <a href="https://www.linkedin.com/in/troydomio/" target="_blank">Connect with me on Linkedin :D </a>
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+<a href="https://troydomio.github.io/birthdaycountdowntimer/" target="_blank">View Demo</a>
